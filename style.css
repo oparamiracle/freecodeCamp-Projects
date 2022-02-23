@@ -1,0 +1,32 @@
+#main {
+  background-color: #eee;
+  margin-top: 3rem;
+}
+.container-fluid {
+  margin: 0%;
+  padding: 0%;
+}
+.container {
+  align-self: center;
+  background-color: white;
+  text-align: center;
+}
+#title {
+  padding-top: 2rem;
+  text-align: center;
+}
+#title-1 {
+  text-align: center;
+}
+.section {
+  display: flex;
+  padding: 20px;
+  text-align: left;
+  flex-direction: column;
+}
+.main {
+  margin: auto;
+  width: 50%;
+  /* background-color: blue; */
+  text-align: start;
+}
